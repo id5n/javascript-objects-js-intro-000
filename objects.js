@@ -3,3 +3,7 @@ var playlist = {
   'Prince': "Purple Rain",
   'Nickelback': "How You Remind Me"
 };
+
+var updatePlaylist = function(playlist, artistName, songTitle) {
+
+}
